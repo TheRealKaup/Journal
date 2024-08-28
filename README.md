@@ -8,6 +8,6 @@ If you encounter errors, regardless of their magnitude, I'd greatly appreciate i
 
 ## 6-7-2024 : Cosmological Argument Book Review
 
-- [Dark PDF](https://github.com/TheRealKaup/Journal/blob/f7028c6182bd34765dac4e58381895f50c359a50/draft/cosmological_argument_book_review_dark.pdf)
-- [Light PDF](https://github.com/TheRealKaup/Journal/blob/f7028c6182bd34765dac4e58381895f50c359a50/draft/cosmological_argument_book_review_light.pdf)
-- [Typst](https://github.com/TheRealKaup/Journal/blob/f7028c6182bd34765dac4e58381895f50c359a50/draft/cosmological_argument_book_review.typ)
+- [Dark PDF](https://github.com/TheRealKaup/Journal/blob/main/draft/cosmological_argument_book_review_dark.pdf)
+- [Light PDF](https://github.com/TheRealKaup/Journal/blob/main/draft/cosmological_argument_book_review_light.pdf)
+- [Typst](https://github.com/TheRealKaup/Journal/blob/main/draft/cosmological_argument_book_review.typ)
