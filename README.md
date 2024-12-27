@@ -14,7 +14,7 @@ If you encountered an error, have question or a suggestion, I'd greatly apprecia
 
 אם נתקלתם בשגיאה, יש לכם שאלה או הצעה, אודה לכם מאוד אם תוכלו לשלוח אותה באמצעות אחד מהטפסים הזמינים ב-GitHub issues:
 
--  https://github.com/TheRealKaup/Journal/issues/new
+- https://github.com/TheRealKaup/Journal/issues/new/choose
 
 # Publications - פרסומים
 
