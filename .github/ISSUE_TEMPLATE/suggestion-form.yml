@@ -1,7 +1,7 @@
 name: Suggestion (הצעה)
 description: Suggest anything (להציע משהו)
 title: "[Suggestions (הצעה)]: "
-lables: "suggestion"
+labels: "suggestion"
 assignees:
   - TheRealKaup
 body:

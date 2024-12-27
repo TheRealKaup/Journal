@@ -1,7 +1,7 @@
 name: Question (שאלה)
 description: Ask question (לשאול שאלה)
 title: "[Question (שאלה)]: "
-lables: "question"
+labels: "question"
 assignees:
   - TheRealKaup
 body:

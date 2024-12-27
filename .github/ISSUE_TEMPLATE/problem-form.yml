@@ -1,7 +1,7 @@
 name: Problem (בעיה)
 description: Report a problem or a mistake (לדווח על בעיה או טעות)
 title: "[Problem (בעיה)]: "
-lables: "problem"
+labels: "problem"
 assignees:
   - TheRealKaup
 body:
