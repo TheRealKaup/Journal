@@ -1,0 +1,24 @@
+name: יצירת קשר - עברית
+description: לדווח טעות, להציע תיקון, או לשאול שאלה
+title: "[נושא]: "
+assignees:
+  - TheRealKaup
+body:
+  - type: markdown
+    attributes:
+      value: |
+        תודה רבה שהחלטת ליצור קשר! בבקשה מלאו את הפרטים הבאים:
+  - type: input
+    attributes:
+      label: פרטים ליצירת קשר
+      description: איך אוכל ליצור איתך קשר במידה ויש צורך בפרטים נוספים?
+      placeholder: דוא"ל, דיסקורד...
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: מהו הנושא?
+      description: יש כמובן לציין איזה מסמך רלוונטי.
+      placeholder: "[יש לי שאלה:/ מצאתי טעות:/ יש לי הצעה לתיקון:]"
+    validations:
+      required: true
