@@ -1,10 +1,22 @@
-# Kaup's Public Journal
+# Kaup's Public Journal - כתב העת הציבורי של קאופ
 
-I upload here my essays (some in Hebrew, some in English), provided as source Typst and compiled PDF. License is specified per file. `"draft/"` contains essays expected to undergo significant changes (e.g. in approache and argumentation) until considered complete enough to be moved to `"release/"`, which may still see there minor changes (e.g. in wording and typography).
+## English
 
-If you encounter errors, regardless of their magnitude, I'd greatly appreciate it if you could submit a GitHub issue.
+I upload here my essays (some in Hebrew, some in English), provided as source Typst and compiled PDF. License is specified and can be different for each file. The `draft/` directory contains essays expected to undergo significant changes (e.g. in approach and argumentation) until considered complete enough to be moved to the `release/` directory, there they may see minor changes (e.g. in wording and typography).
 
-# Uploades
+If you encountered an error, have question or a suggestion, I'd greatly appreciate it if you could submit a it via one of the forms available in GitHub issues:
+
+- https://github.com/TheRealKaup/Journal/issues/new/choose
+
+## Hebrew
+
+אני מעלה לכאן את המאמרים שלי (חלק בעברית, חלק באנגלית), כקבצי מקור Typst ומסמכי PDF מוכנים. הרישיון מצוין ויכול להיות שונה בכל מסמך. התיקייה `draft/` כוללת מאמרים שצפויים לעבור שינויים משמעותיים (לדוגמה, בגישה ובטיעון) עד שייחשבו שלמים מספיק כדי לעבור לתיקייה `release/`, שם הם עשויים לעבור שינויים קלים (לדוגמה, בניסוח ובטיפוגרפיה).
+
+אם נתקלתם בשגיאה, יש לכם שאלה או הצעה, אודה לכם מאוד אם תוכלו לשלוח אותה באמצעות אחד מהטפסים הזמינים ב-GitHub issues:
+
+-  https://github.com/TheRealKaup/Journal/issues/new
+
+# Publications - פרסומים
 
 ## 6-7-2024 : Cosmological Argument Book Review
 
