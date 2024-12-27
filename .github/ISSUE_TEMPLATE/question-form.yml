@@ -1,0 +1,31 @@
+name: Question (שאלה)
+description: Ask question (לשאול שאלה)
+title: "[Question (שאלה)]: "
+lables: "question"
+assignees:
+  - TheRealKaup
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks you for making contact! Please fill the following information (תודה רבה שהחלטת ליצור קשר! בבקשה מלאו את הפרטים הבאים):
+  - type: input
+    attributes:
+      label: Contact information (פרטי קשר)
+      description: How can I contact you if more information is needed (איך אוכל ליצור איתך קשר במידה ויש צורך בפרטים נוספים)?
+      placeholder: email, discord (דוא"ל, דיסקורד)...
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Relevant documents (מסמכים רלוונטיים)
+      description: Describe which documents are relevant to your suggestion (לתאר אילו מסמכים רלוונטיים להצעה שלך)
+      placeholder: A document, the entire repository (מסמך אחד, כל המאגר)...
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Question (שאלה)
+      placeholder: What some given text means, what's the source (מה משמעותו של הטקסט הנתון, מהו מקור המידע)...
+    validations:
+      required: true

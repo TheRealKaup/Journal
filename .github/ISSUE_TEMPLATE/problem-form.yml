@@ -1,0 +1,37 @@
+name: Problem (בעיה)
+description: Report a problem or a mistake (לדווח על בעיה או טעות)
+title: "[Problem (בעיה)]: "
+lables: "problem"
+assignees:
+  - TheRealKaup
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks you for making contact! Please fill the following information (תודה רבה שהחלטת ליצור קשר! בבקשה מלאו את הפרטים הבאים):
+  - type: input
+    attributes:
+      label: Contact information (פרטי קשר)
+      description: How can I contact you if more information is needed (איך אוכל ליצור איתך קשר במידה ויש צורך בפרטים נוספים)?
+      placeholder: email, discord (דוא"ל, דיסקורד)...
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Relevant documents (מסמכים רלוונטיים)
+      description: Describe which documents are relevant to your suggestion (לתאר אילו מסמכים רלוונטיים להצעה שלך)
+      placeholder: A document, the entire repository (מסמך אחד, כל המאגר)...
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Problem (בעיה)
+      placeholder: Misspell, incoherent text, logical contradiction (שגיאת כתיב, טקסט לא ברור, סתירה לוגית)...
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Optional fix suggestion (הצעה לתיקון שלא בחובה)
+      placeholder: Correct spelling, rephrased text, new logic (איות נכון, טקסט מנוסח מחדש, לוגיקה חדשה)...
+    validations:
+      required: false
