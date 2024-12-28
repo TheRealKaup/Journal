@@ -12,7 +12,7 @@ body:
     attributes:
       label: Contact information; will appear public (פרטי קשר; יוצג בפומבי)
       description: How can I contact you if more information is needed (איך אוכל ליצור איתך קשר במידה ויש צורך בפרטים נוספים)?
-      placeholder: email, discord (דוא"ל, דיסקורד)...
+      placeholder: email, discord, here on GitHub (דוא"ל, דיסקורד, כאן בגיטהאב)...
     validations:
       required: false
   - type: textarea
