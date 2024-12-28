@@ -1,6 +1,5 @@
 name: Question (שאלה)
 description: Ask question (לשאול שאלה)
-title: "[Question (שאלה)]: "
 labels: "question"
 assignees:
   - TheRealKaup
@@ -11,7 +10,7 @@ body:
         Thanks you for making contact! Please fill the following information (תודה רבה שהחלטת ליצור קשר! בבקשה מלאו את הפרטים הבאים):
   - type: input
     attributes:
-      label: Contact information (פרטי קשר)
+      label: Contact information; will appear public (פרטי קשר; יוצג בפומבי)
       description: How can I contact you if more information is needed (איך אוכל ליצור איתך קשר במידה ויש צורך בפרטים נוספים)?
       placeholder: email, discord (דוא"ל, דיסקורד)...
     validations:
