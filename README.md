@@ -24,7 +24,7 @@ If you encountered an error, have question or a suggestion, I'd greatly apprecia
 - [Light PDF](https://github.com/TheRealKaup/Journal/blob/main/draft/cosmological_argument_book_review/light.pdf)
 - [Typst](https://github.com/TheRealKaup/Journal/blob/main/draft/cosmological_argument_book_review/source.typ)
 
-## 6-7-2024: Cosmological Argument Book Review Draft C (Hebrew) - ביקורת ספר הטיעון הקוסמולוגי טיוטה ב' (עברית)
+## 6-7-2024: Cosmological Argument Book Review Draft B (Hebrew) - ביקורת ספר הטיעון הקוסמולוגי טיוטה ב' (עברית)
 
 - [Dark PDF](https://github.com/TheRealKaup/Journal/blob/c4d857692848f012f6d85b958f84d212fd632f30/draft/cosmological_argument_book_review_dark.pdf)
 - [Light PDF](https://github.com/TheRealKaup/Journal/blob/c4d857692848f012f6d85b958f84d212fd632f30/draft/cosmological_argument_book_review_light.pdf)
