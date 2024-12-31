@@ -20,9 +20,9 @@ If you encountered an error, have question or a suggestion, I'd greatly apprecia
 
 ## 1-1-2025: Cosmological Argument Book Review Draft C (Hebrew) - ביקורת ספר הטיעון הקוסמולוגי טיוטה ג' (עברית)
 
-- [Dark PDF](https://github.com/TheRealKaup/Journal/blob/main/draft/cosmological_argument_book_review_dark.pdf)
-- [Light PDF](https://github.com/TheRealKaup/Journal/blob/main/draft/cosmological_argument_book_review_light.pdf)
-- [Typst](https://github.com/TheRealKaup/Journal/blob/main/draft/cosmological_argument_book_review.typ)
+- [Dark PDF](https://github.com/TheRealKaup/Journal/blob/main/draft/cosmological_argument_book_review/dark.pdf)
+- [Light PDF](https://github.com/TheRealKaup/Journal/blob/main/draft/cosmological_argument_book_review/light.pdf)
+- [Typst](https://github.com/TheRealKaup/Journal/blob/main/draft/cosmological_argument_book_review/source.typ)
 
 ## 6-7-2024: Cosmological Argument Book Review Draft C (Hebrew) - ביקורת ספר הטיעון הקוסמולוגי טיוטה ב' (עברית)
 
