@@ -1,6 +1,6 @@
 # Kaup's Public Journal - כתב העת הציבורי של קאופ
 
-## English (אנגלית)
+## English - אנגלית
 
 I upload here my essays (some in Hebrew, some in English), provided as source Typst and compiled PDF. License is specified and can be different for each file. The [`draft/`](draft/) directory contains essays expected to undergo significant changes (e.g. in approach and argumentation) until considered complete enough to be moved to the `release/` directory, there they may see minor changes (e.g. in wording and typography).
 
@@ -10,7 +10,7 @@ If you encountered an error, have question or a suggestion, I'd greatly apprecia
 
 <div dir="rtl">
 
-## עברית (Hebrew)
+## עברית - Hebrew
 
 אני מעלה לכאן את המאמרים שלי (חלק בעברית, חלק באנגלית), כקבצי מקור Typst ומסמכי PDF מוכנים. הרישיון מצוין ויכול להיות שונה בכל מסמך. התיקייה [`draft/`](draft/) כוללת מאמרים שצפויים לעבור שינויים משמעותיים (לדוגמה, בגישה ובטיעון) עד שייחשבו שלמים מספיק כדי לעבור לתיקייה `release/`, שם הם עשויים לעבור שינויים קלים (לדוגמה, בניסוח ובטיפוגרפיה).
 
