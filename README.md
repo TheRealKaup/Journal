@@ -33,3 +33,7 @@ If you encountered an error, have question or a suggestion, I'd greatly apprecia
 - [Dark PDF](https://github.com/TheRealKaup/Journal/blob/c4d857692848f012f6d85b958f84d212fd632f30/draft/cosmological_argument_book_review_dark.pdf)
 - [Light PDF](https://github.com/TheRealKaup/Journal/blob/c4d857692848f012f6d85b958f84d212fd632f30/draft/cosmological_argument_book_review_light.pdf)
 - [Typst](https://github.com/TheRealKaup/Journal/blob/c4d857692848f012f6d85b958f84d212fd632f30/draft/cosmological_argument_book_review.typ)
+
+# Blog  - יומן רשת
+
+Coming in the near future (יבוא בעתיד הקרוב).
